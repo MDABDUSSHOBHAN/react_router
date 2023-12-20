@@ -1,0 +1,10 @@
+.about{
+
+    height: 300px;
+    width: 300px;
+    background-color: purple;
+    text-align: center;
+    justify-content: center;
+    color: aliceblue;
+    align-items: center;
+}
